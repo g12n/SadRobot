@@ -2,4 +2,4 @@
 
 ## Drafts
 
-1. [My Sky](mySky)
+1. [My Sky](my-sky)
