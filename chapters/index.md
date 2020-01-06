@@ -1,3 +1,8 @@
+---
+layout: layout.njk
+title: Sad Robot
+---
+
 # Sad Robot
 
 I don't consider myself a novelist. Not even a writer. But I like stories and visions of the future. Though I am quite picky and can't really find many stories that I consider to be positive Sci-Fi. Optimistic views on the fututre and technology. And maybe there isn't a market for those kind of stories. The 20th century conditioned us for a skeptic view on technology and a bleak view of the future. 

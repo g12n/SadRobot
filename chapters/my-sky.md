@@ -1,3 +1,8 @@
+---
+layout: layout.njk
+title: My Sky
+---
+
 # My Sky
 
 I lean back and look up to the sky. White fluffy clouds are drifting over it. The sun is just peeking over the roof of my home building. It is warm and comfortable. I enjoy a minute just basking in the warm rays. Yes. A job well done. 
