@@ -2,7 +2,7 @@
 
 I lean back and look up to the sky. White fluffy clouds are drifting over it. The sun is just peeking over the roof of my home building. It is warm and comfortable. I enjoy a minute just basking in the warm rays. Yes. A job well done. 
 
-OK, technically it isn't my job beeing so masterfully executed. But I can't stop beeing proud of it. This is my sky. Technically it the ceiling of this neighbourhod. Subterrainian level 8 of hex 10 of Redenbug City. Home sweet home. 
+OK, technically it isn't my job that's beeing so masterfully executed. But I can't stop beeing proud of it. This is *my* sky. Technically it the ceiling of this neighbourhod. Subterrainian level 8 of hex 10 of Redenbug City. Home sweet home. 
 
 I could climb up on the roof and touch the sky. I actually did that a few times after it was installed. The effect was uncanny. Your eyes tell you it's infinitly far away. The shadows in the yard are just right. Even your skin feels the sun or the cold breeze of the wind. But right there you touch the surface of the panels that maintain this illusion. For a human this is indistinguishable from the real thing outside. It even mimics the conditions outside. It can even rain, although Marvin spends most of his spare time to tweak settings to match conditions even better to the outside. 
 
