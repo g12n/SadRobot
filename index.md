@@ -16,4 +16,8 @@ So dear visitor who just happened to stumble over these files be warned. Don't e
 
 ## Drafts
 
-1. [My Sky](my-sky)
+<ul>
+{%- for chapter in collections.chapter -%}
+  <li><a href="{{ chapter.url }}">{{ chapter.data.title }}</a></li>
+{%- endfor -%}
+</ul>

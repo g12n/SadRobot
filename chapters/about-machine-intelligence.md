@@ -1,6 +1,5 @@
 ---
-layout: layout.njk
-title: A lecture in machine intelligence 
+title: A lecture in machine intelligence
 ---
 
 “￼Do you remember the time when everything was talking about the singularity?￼” she asked. “The point when artificial intelligence and human intelligence would match and machines would rise above humans quickly.￼￼ The idea was that machines would grow above their makers and ￼finally eradicate them.” She took a sip of wine. “It didn’t happen until now. And I am perfectly confident that it won’t ever happen.” She pointed a finger at me. “And do you know why?“ 
