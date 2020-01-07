@@ -19,4 +19,3 @@ Some neighborhoods even skip the sky simulation completely. One might call them 
 So here we are in the year 2053. Where people living under realistic weather conditions are considered funny. While people people with eternal Christmas are deemed quite reasonable. 
 
 I like my sky.
-

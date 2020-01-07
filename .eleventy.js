@@ -3,5 +3,10 @@ module.exports = {
         input: ".",
         output: "docs"
     },
-    pathPrefix: "/sad-robot/"
+    pathPrefix: "/sad-robot/",
+    templateFormats: [
+        "md",
+        "css", "njk"
+    ],
+    passthroughFileCopy: true
 };
