@@ -18,6 +18,6 @@ So dear visitor who just happened to stumble over these files be warned. Don't e
 
 <ul>
 {%- for chapter in collections.chapter -%}
-  <li><a href="{{ chapter.url }}">{{ chapter.data.title }}</a></li>
+  <li><a href="{{ chapter.url | url }}">{{ chapter.data.title }}</a></li>
 {%- endfor -%}
 </ul>
