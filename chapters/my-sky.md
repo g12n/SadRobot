@@ -16,6 +16,6 @@ Most neighborhoods are quite standard. I call them boring. A generic sky on reli
 
 Some neighborhoods even skip the sky simulation completely. One might call them purists. Rooms and corridors instead of town squares or community gardens. To me this makes their hoods feel more like space stations in sci-fi novels. Whenever I visit Stefanie I expect her to wear a star fleet uniform to match her living environment. Once I greeted her with a proper Vulcan greeting but just got an raised eyebrow as an reaction. 
 
-So here we are in the year 2053. Where people living under realistic weather conditions are considered funny. While people people with eternal Christmas are deemed quite reasonable. 
+So we are in the year 2053, where people living under realistic weather conditions are considered to be curious. But people who live in an eternal Christmas are considered quite reasonable. 
 
 I like my sky.
