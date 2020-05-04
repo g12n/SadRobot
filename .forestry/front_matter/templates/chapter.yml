@@ -1,9 +1,0 @@
----
-label: Chapter
-hide_body: false
-fields:
-- type: text
-  name: title
-  label: title
-pages:
-- "./chapters/test.md"
