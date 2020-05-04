@@ -6,4 +6,4 @@ fields:
   name: title
   label: title
 pages:
-- "./chapters/chapters/test.md"
+- "./chapters/chapters/temple-in-the-sky.md"
