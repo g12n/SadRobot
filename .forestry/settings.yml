@@ -8,8 +8,7 @@ sections:
   path: chapters
   label: Chapters
   create: documents
-  match: "*.*"
-  exclude: "*.json"
+  match: "*.md"
   new_doc_ext: md
   templates:
   - chapter
