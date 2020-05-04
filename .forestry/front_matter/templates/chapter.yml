@@ -7,3 +7,4 @@ fields:
   label: title
 pages:
 - "./chapters/chapters/temple-in-the-sky.md"
+- "./chapters/test.md"
