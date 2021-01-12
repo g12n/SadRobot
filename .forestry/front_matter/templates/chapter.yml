@@ -5,3 +5,9 @@ fields:
 - type: text
   name: title
   label: title
+- name: color
+  type: color
+  label: Color
+  config:
+    required: false
+    color_format: Hex
