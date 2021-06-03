@@ -30,7 +30,7 @@
     "postcss-simple-vars": "^6.0.3",
     "postcss-mixins": "^8.0.0",
     "precss": "^4.0.0",
-    "acorn": ">=8.2.4"
+    "acorn": ">=8.3.0"
   },
   "dependencies": {}
 }
