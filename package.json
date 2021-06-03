@@ -23,14 +23,13 @@
   "homepage": "https://github.com/g12n/sad-robot#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
+    "acorn": ">=8.3.0",
     "cssnano": "^5.0.5",
     "postcss": "^8.3.0",
     "postcss-color-mix": "^1.1.0",
     "postcss-import": "^14.0.2",
-    "postcss-simple-vars": "^6.0.3",
     "postcss-mixins": "^8.0.0",
-    "precss": "^4.0.0",
-    "acorn": ">=8.3.0"
-  },
-  "dependencies": {}
+    "postcss-simple-vars": "^6.0.3",
+    "precss": "^3.1.2"
+  }
 }
