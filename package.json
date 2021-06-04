@@ -26,10 +26,12 @@
     "acorn": ">=8.3.0",
     "cssnano": "^5.0.5",
     "postcss": "^8.3.0",
-    "postcss-color-mix": "^1.1.0",
     "postcss-import": "^14.0.2",
     "postcss-mixins": "^8.0.0",
     "postcss-simple-vars": "^6.0.3",
     "precss": "^3.1.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.6"
   }
 }
