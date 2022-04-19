@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/g12n/sad-robot#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^1.0.1",
     "acorn": ">=8.7.0",
     "cssnano": "^5.0.14",
     "postcss": "^8.4.5",
