@@ -32,6 +32,6 @@
     "precss": "^4.0.0"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.1"
+    "autoprefixer": "^10.4.13"
   }
 }
