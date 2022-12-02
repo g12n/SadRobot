@@ -26,7 +26,7 @@
     "acorn": ">=8.7.0",
     "cssnano": "^5.0.14",
     "postcss": "^8.4.5",
-    "postcss-import": "^14.0.2",
+    "postcss-import": "^15.0.1",
     "postcss-mixins": "^9.0.1",
     "postcss-simple-vars": "^6.0.3",
     "precss": "^4.0.0"
