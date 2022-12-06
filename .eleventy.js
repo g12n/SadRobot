@@ -1,6 +1,5 @@
 module.exports =function(eleventyConfig){
 
-  eleventyConfig.addWatchTarget("./**/*.scss");
   eleventyConfig.addPassthroughCopy("fonts");
   return { 
   dir: {

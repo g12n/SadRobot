@@ -5,21 +5,18 @@ on:
       - master
 
 jobs:
-  deploy:
-    name: Deploy to GitHub Pages
-    runs-on: ubuntu-latest    
+  build:
+    name: Build 
+    runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Use Node.js
-      uses: actions/setup-node@v1
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
       with:
-        node-version: 10.x
-    - name: npm install and build
-      run: |
-        npm install
-        npm run build
-
-    - name: Deploy
+        node-version: 16
+    - run: npm ci
+    - run: npm run build
+    
+    - name: Deploy to GitHub Pages
       uses: s0/git-publish-subdir-action@master
       env:
         REPO: self

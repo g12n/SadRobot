@@ -11,6 +11,9 @@ title: My Rad Blog
     <link rel="stylesheet" href="{{ '/css/styles.css' | url }}"/>
   </head>
   <body>
+    {%if robot%}
+    {% include 'robot-disclaimer.njk' %}
+    {% endif %}
     <main>
       {{ content | safe }}
     </main>
