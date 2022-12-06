@@ -1,7 +1,7 @@
 ---
 title: Creating Abundance – A New Vision for the Future
 subheadline: How technology and innovation can help us build a more sustainable and equitable world.
-description: The article discusses the need for a new social movement that focuses on making essential goods and services more affordable and accessible. By embracing the principles of abundance and affordability, we can leverage technology and innovation to create a more sustainable and equitable future for all.
+description: A robot written article that discusses the need for a new social movement that focuses on making essential goods and services more affordable and accessible. By embracing the principles of abundance and affordability, we can leverage technology and innovation to create a more sustainable and equitable future for all.
 robot: true
 ---
 
